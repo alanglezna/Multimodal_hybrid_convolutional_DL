@@ -1,0 +1,18 @@
+# Pesado o regenerable: no se sube
+Pesos_*/
+Opt_*.db
+*.rds
+*.keras
+*.joblib
+bglr_tmp/
+logs/
+log_*.txt
+*.log
+*.tar.gz
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+Resultados_*/hechos/
+# Datos crudos del CIMMYT: disponibles a solicitud
+Y20-21/
+Y21-22/

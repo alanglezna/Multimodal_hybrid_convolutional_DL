@@ -1,0 +1,7 @@
+{
+ "a": "Pesos_v6_Y21/DLNN-AO",
+ "snp": "Pesos_v7_Y21/CNN-SNP",
+ "dm": "Pesos_v7_Y21/DLNN-DM6AUC",
+ "fusion": "fusion_V6",
+ "trials": 100
+}

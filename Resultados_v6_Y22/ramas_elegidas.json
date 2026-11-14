@@ -1,0 +1,10 @@
+{
+ "a": "DLNN-AO",
+ "snp": "CNN-SNP-OHE",
+ "dm": "DLNN-DM6AUC",
+ "entrada": {
+  "a": "AO",
+  "snp": "SNP-OHE",
+  "dm": "DM6AUC"
+ }
+}
